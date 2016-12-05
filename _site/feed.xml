@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>News 'n' Updates | Bitcoin Hard Fork Research</title>
+  <link href="https://bitcoinhardforkresearch.github.io/feed.xml" rel="self"/>
+  <link href="https://bitcoinhardforkresearch.github.io/"/>
+  <updated>2016-12-05T09:57:53+00:00</updated>
+  <id>https://bitcoinhardforkresearch.github.io/</id>
+  <author>
+    <name></name>
+  </author>
+  <generator>Jekyll v3.0.3</generator>
+
+  
+  <entry>
+    <title>Bitcoin Hard Fork Research</title>
+    <link href="https://bitcoinhardforkresearch.github.io/welcome.html"/>
+    <updated>2015-01-31T00:00:00+00:00</updated>
+    <id>https://bitcoinhardforkresearch.github.io/welcome</id>
+    <content type="html">&lt;p&gt;This website will be updated with relevant ongoing information about Bitcoin hard fork research.&lt;/p&gt;
+
+&lt;p&gt;Resources:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/luke-jr/bips/blob/bip-mmhf/bip-mmhf.mediawiki&quot;&gt;BIP-MMHF&lt;/a&gt;, last updated 2016/7/17, &lt;a href=&quot;https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2016-February/012377.html&quot;&gt;discussion&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://petertodd.org/2016/hardforks-after-the-segwit-blocksize-increase&quot;&gt;Research update&lt;/a&gt; by Peter Todd, 2016/8/5&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2016-December/013332.html&quot;&gt;Draft BIP: Hardfork warning system&lt;/a&gt; - Dr Johnson Lau, 2016/12/1&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2016-December/013338.html&quot;&gt;Forcenet1&lt;/a&gt; experimental hard fork testnet, 2016/12/4&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+  </entry>
+  
+</feed>
